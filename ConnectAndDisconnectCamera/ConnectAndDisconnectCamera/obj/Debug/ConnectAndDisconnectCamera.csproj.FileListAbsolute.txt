@@ -1,0 +1,15 @@
+c:\users\shuvra\documents\visual studio 2012\Projects\ConnectAndDisconnectCamera\ConnectAndDisconnectCamera\bin\Debug\ConnectAndDisconnectCamera.dll
+c:\users\shuvra\documents\visual studio 2012\Projects\ConnectAndDisconnectCamera\ConnectAndDisconnectCamera\bin\Debug\ConnectAndDisconnectCamera.pdb
+c:\users\shuvra\documents\visual studio 2012\Projects\ConnectAndDisconnectCamera\ConnectAndDisconnectCamera\obj\Debug\ConnectAndDisconnectCamera.csprojResolveAssemblyReference.cache
+c:\users\shuvra\documents\visual studio 2012\Projects\ConnectAndDisconnectCamera\ConnectAndDisconnectCamera\obj\Debug\ConnectAndDisconnectCamera.dll
+c:\users\shuvra\documents\visual studio 2012\Projects\ConnectAndDisconnectCamera\ConnectAndDisconnectCamera\obj\Debug\ConnectAndDisconnectCamera.pdb
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\ConnectAndDisconnectCamera\ConnectAndDisconnectCamera\bin\Debug\ConnectAndDisconnectCamera.dll
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\ConnectAndDisconnectCamera\ConnectAndDisconnectCamera\bin\Debug\ConnectAndDisconnectCamera.pdb
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\ConnectAndDisconnectCamera\ConnectAndDisconnectCamera\obj\Debug\ConnectAndDisconnectCamera.csprojResolveAssemblyReference.cache
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\ConnectAndDisconnectCamera\ConnectAndDisconnectCamera\obj\Debug\ConnectAndDisconnectCamera.dll
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\ConnectAndDisconnectCamera\ConnectAndDisconnectCamera\obj\Debug\ConnectAndDisconnectCamera.pdb
+C:\Users\Shuvra\Desktop\pc\Menus\ConnectAndDisconnectCamera\ConnectAndDisconnectCamera\bin\Debug\ConnectAndDisconnectCamera.dll
+C:\Users\Shuvra\Desktop\pc\Menus\ConnectAndDisconnectCamera\ConnectAndDisconnectCamera\bin\Debug\ConnectAndDisconnectCamera.pdb
+C:\Users\Shuvra\Desktop\pc\Menus\ConnectAndDisconnectCamera\ConnectAndDisconnectCamera\obj\Debug\ConnectAndDisconnectCamera.csprojResolveAssemblyReference.cache
+C:\Users\Shuvra\Desktop\pc\Menus\ConnectAndDisconnectCamera\ConnectAndDisconnectCamera\obj\Debug\ConnectAndDisconnectCamera.dll
+C:\Users\Shuvra\Desktop\pc\Menus\ConnectAndDisconnectCamera\ConnectAndDisconnectCamera\obj\Debug\ConnectAndDisconnectCamera.pdb

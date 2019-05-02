@@ -1,0 +1,4 @@
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\CodedUITestProject1\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\CodedUITestProject1\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\CodedUITestProject1\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\CodedUITestProject1\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb

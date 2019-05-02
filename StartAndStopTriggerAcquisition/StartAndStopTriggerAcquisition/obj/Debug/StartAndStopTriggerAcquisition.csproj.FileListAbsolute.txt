@@ -1,0 +1,9 @@
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\StartAndStopTriggerAcquisition\StartAndStopTriggerAcquisition\bin\Debug\StartAndStopTriggerAcquisition.dll
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\StartAndStopTriggerAcquisition\StartAndStopTriggerAcquisition\bin\Debug\StartAndStopTriggerAcquisition.pdb
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\StartAndStopTriggerAcquisition\StartAndStopTriggerAcquisition\obj\Debug\StartAndStopTriggerAcquisition.dll
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\StartAndStopTriggerAcquisition\StartAndStopTriggerAcquisition\obj\Debug\StartAndStopTriggerAcquisition.pdb
+C:\Users\Shuvra\Desktop\pc\Menus\StartAndStopTriggerAcquisition\StartAndStopTriggerAcquisition\bin\Debug\StartAndStopTriggerAcquisition.dll
+C:\Users\Shuvra\Desktop\pc\Menus\StartAndStopTriggerAcquisition\StartAndStopTriggerAcquisition\bin\Debug\StartAndStopTriggerAcquisition.pdb
+C:\Users\Shuvra\Desktop\pc\Menus\StartAndStopTriggerAcquisition\StartAndStopTriggerAcquisition\obj\Debug\StartAndStopTriggerAcquisition.dll
+C:\Users\Shuvra\Desktop\pc\Menus\StartAndStopTriggerAcquisition\StartAndStopTriggerAcquisition\obj\Debug\StartAndStopTriggerAcquisition.pdb
+C:\Users\Shuvra\Desktop\pc\Menus\StartAndStopTriggerAcquisition\StartAndStopTriggerAcquisition\obj\Debug\StartAndStopTriggerAcquisition.csprojResolveAssemblyReference.cache

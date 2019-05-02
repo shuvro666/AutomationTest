@@ -1,0 +1,4 @@
+C:\Users\Shuvra\Desktop\pc\Menus\Stop Streaming\Stop Streaming\bin\Debug\Stop Streaming.dll
+C:\Users\Shuvra\Desktop\pc\Menus\Stop Streaming\Stop Streaming\bin\Debug\Stop Streaming.pdb
+C:\Users\Shuvra\Desktop\pc\Menus\Stop Streaming\Stop Streaming\obj\Debug\Stop Streaming.dll
+C:\Users\Shuvra\Desktop\pc\Menus\Stop Streaming\Stop Streaming\obj\Debug\Stop Streaming.pdb

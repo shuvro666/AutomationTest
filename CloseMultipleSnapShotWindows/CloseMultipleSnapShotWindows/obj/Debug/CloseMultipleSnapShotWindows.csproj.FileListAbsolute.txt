@@ -1,0 +1,9 @@
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\CloseMultipleSnapShotWindows\CloseMultipleSnapShotWindows\bin\Debug\CloseMultipleSnapShotWindows.dll
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\CloseMultipleSnapShotWindows\CloseMultipleSnapShotWindows\bin\Debug\CloseMultipleSnapShotWindows.pdb
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\CloseMultipleSnapShotWindows\CloseMultipleSnapShotWindows\obj\Debug\CloseMultipleSnapShotWindows.dll
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\CloseMultipleSnapShotWindows\CloseMultipleSnapShotWindows\obj\Debug\CloseMultipleSnapShotWindows.pdb
+C:\Users\Shuvra\Desktop\pc\Menus\CloseMultipleSnapShotWindows\CloseMultipleSnapShotWindows\bin\Debug\CloseMultipleSnapShotWindows.dll
+C:\Users\Shuvra\Desktop\pc\Menus\CloseMultipleSnapShotWindows\CloseMultipleSnapShotWindows\bin\Debug\CloseMultipleSnapShotWindows.pdb
+C:\Users\Shuvra\Desktop\pc\Menus\CloseMultipleSnapShotWindows\CloseMultipleSnapShotWindows\obj\Debug\CloseMultipleSnapShotWindows.dll
+C:\Users\Shuvra\Desktop\pc\Menus\CloseMultipleSnapShotWindows\CloseMultipleSnapShotWindows\obj\Debug\CloseMultipleSnapShotWindows.pdb
+C:\Users\Shuvra\Desktop\pc\Menus\CloseMultipleSnapShotWindows\CloseMultipleSnapShotWindows\obj\Debug\CloseMultipleSnapShotWindows.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\TakingSnapShot\TakingSnapShot\bin\Debug\TakingSnapShot.dll
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\TakingSnapShot\TakingSnapShot\bin\Debug\TakingSnapShot.pdb
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\TakingSnapShot\TakingSnapShot\obj\Debug\TakingSnapShot.dll
+C:\Users\Shuvra\Documents\Visual Studio 2012\Projects\ProbeControlComponents\Menus\TakingSnapShot\TakingSnapShot\obj\Debug\TakingSnapShot.pdb
+C:\Users\Shuvra\Desktop\pc\Menus\TakingSnapShot\TakingSnapShot\bin\Debug\TakingSnapShot.dll
+C:\Users\Shuvra\Desktop\pc\Menus\TakingSnapShot\TakingSnapShot\bin\Debug\TakingSnapShot.pdb
+C:\Users\Shuvra\Desktop\pc\Menus\TakingSnapShot\TakingSnapShot\obj\Debug\TakingSnapShot.dll
+C:\Users\Shuvra\Desktop\pc\Menus\TakingSnapShot\TakingSnapShot\obj\Debug\TakingSnapShot.pdb
